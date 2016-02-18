@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3799283
+color:
+  saturation: 0.1135616
+  lightness: 0.9860858
+  brandStrength: 0.3870968
+  brandColors:
+    - '#0E0B04'
+    - '#FF01FF'
+    - '#420C54'
+    - '#D0A24C'
+    - '#FFFCFF'
+  rhythmicContrast: 0.6909919
+name: Kellohalli galleria
